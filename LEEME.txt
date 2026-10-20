@@ -1,0 +1,10 @@
+Testinfinito 🍏 — Modo «Ver las 10 en el apunte»
+
+1. Publica este index.html en tu proyecto Vercel existente.
+2. Inicia una ronda de 10 preguntas.
+3. Pulsa 📚 Ver las 10 en el apunte.
+4. Asocia un PDF, DOCX o TXT desde el navegador si todavía no lo has hecho.
+5. Pulsa P1-P10 para saltar al contenido relacionado. Usa «Mostrar respuestas» para activar R1-R10; al terminar la ronda se muestran de inicio.
+6. Las coincidencias automáticas son orientativas, no son citas garantizadas. Los apuntes originales no se incluyen en la web pública.
+
+Para publicar desde el directorio usando Vercel CLI autenticada: vercel link --project testinfinito-valen && vercel --prod
